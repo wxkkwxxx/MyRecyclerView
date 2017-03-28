@@ -8,3 +8,4 @@
    ps:注释比较详细,对RecyclerView不熟的朋友可以随意看看
 
 ![img](https://github.com/wxkkwxxx/MyRecyclerView/blob/master/img/g.gif)
+![img](https://github.com/wxkkwxxx/MyRecyclerView/blob/master/img/g2.gif)
